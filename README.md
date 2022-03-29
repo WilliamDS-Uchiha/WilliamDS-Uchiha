@@ -1,7 +1,7 @@
 ## Olá! Eu sou o William Desteffani Soares 👋
 
 - 🔭 Hoje trabalho com desenvolvimento Web
-- 🌱 Estou estudando Javascript
+- 🌱 Estou estudando JavaScript e Flutter
 - 😄 Pronouns: ele/dele
 
 <div>
