@@ -21,7 +21,7 @@
   <img align="center" alt="Will-Flutter" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg">
   <img align="center" alt="Will-VSCode" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
   <img align="center" alt="Will-Premiere" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/premierepro/premierepro-original.svg">
-  <img align="center" alt="Will-Photoshop" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-original.svg">
+  <img align="center" alt="Will-Photoshop" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-line.svg">
   <img align="center" alt="Will-AfterEffects" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/aftereffects/aftereffects-original.svg">
   <img align="right" alt="Will-Gif" height="124" width="124" src="https://imgur.com/tYHWUIh.gif">
 </div>
